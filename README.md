@@ -2,8 +2,7 @@
 
 **HTTP** stands for HyperText Transfer Protocol It is request-response protocol. It allows web browsers (clients) to communicate with web servers to request and exchange resources like HTML pages, images, videos, and APIs. Simply HTTP is the language web browser and web server speaks. it is used to load pages on the Internet using hyperlinks.
 
-**HTTP Request**: the way Internet communications platforms such as web browsers ask for the information they need to load a website.
-**HTTP Response**: what web clients (often browsers) receive from an Internet server in answer to an HTTP request. These responses communicate valuable information based on what was asked for in the HTTP request.
+**HTTP Request**: the way Internet communications platforms such as web browsers ask for the information they need to load a website.<br>**HTTP Response**: what web clients (often browsers) receive from an Internet server in answer to an HTTP request. These responses communicate valuable information based on what was asked for in the HTTP request.
 
 #### **HTTP workflow**
 
@@ -11,13 +10,7 @@ User clicks a link -> browser sends an HTTP request -> Server process and return
 
 #### **HTTP Methods**
 
-**GET**: is used to retrieve information from the given server using a given URI.
-**HEAD**: the same as GET, but transfers the status line and header section only
-**POST**: is used to send data to a server using HTML forms.
-**PUT**: the same as POST, but replaces all current representations of the target resource with the uploaded content.
-**DELETE**: removes all current representations of the target resource given by a URI.
-**CONNECT**: establishes a tunnel to the server identified by a given URI
-**OPTIONS**: describes the communication options for the target resource.
+**GET**: is used to retrieve information from the given server using a given URI.<br>**HEAD**: the same as GET, but transfers the status line and header section only.<br>**POST**: is used to send data to a server using HTML forms.<br>**PUT**: the same as POST, but replaces all current representations of the target resource with the uploaded content.<br>**DELETE**: removes all current representations of the target resource given by a URI.<br>**CONNECT**: establishes a tunnel to the server identified by a given URI.<br>**OPTIONS**: describes the communication options for the target resource.
 
 | Version             | Features                                                                                                                                                                                                                                                                                                                    |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
